@@ -1,0 +1,71 @@
+/* 
+    Document   : newCascadeStyleSheet
+    Created on : Jan 3, 2013, 5:54:38 PM
+    Author     : Sarath
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.signup1 {
+                    background-color: #87405F;
+                    border-radius: 3px 3px 3px 3px;
+                    box-shadow: 4px 8px 8px #333333;
+                    height: 190px;
+                    position: absolute;
+                    width: 300px;
+                }
+                .signup_close {
+                    cursor: pointer;
+                    float: right;
+                    margin-right: 6px;
+                    margin-top: -115px;
+                }
+                .headingforsignup {
+                    float: left;
+                    height: 74px;
+                    margin: 11px auto auto;
+                    width: 305px
+                }
+                .headingforsignup h3{color: #FFFFFF;
+                                     font-size: 24px;
+                                     text-align: center;}
+                #back {
+                    background: none repeat scroll 0 0 #000000;
+                    display:block;
+                    height: 100%;
+                    left: 0;
+                    opacity: 0.8;
+                    position: fixed;
+                    top: 0;
+                    width: 100%;
+                    z-index: 9999;
+                }
+                #test {
+                    background-color: #FFFFFF;
+                    height: auto;
+                    display:block;
+                    left: 40%;
+                    position: fixed;
+                    top: 30%;
+                    z-index: 99999;
+                }
+                .form_signup {
+                    line-height: 28px;
+                    padding-left: 72px;
+                }
+                text2 {
+                    background-color:#ff0000;
+                    border: medium none;
+                    float: left;
+                    font-family: Georgia;
+                    font-weight: bold;
+                    height: 27px;
+                    text-indent: 15px;
+                    width: 174px;
+                }
+                .submit_btn {
+                    background-color: #FFFFFF;
+                    border-radius: 7px 7px 7px 7px;
+                    height: 31px;
+                    margin-left: 99px;
+                    width: 95px;
+                }
